@@ -1,0 +1,17 @@
+{
+    "plugins": [
+        {
+            "name": "MyAnimeList Plugin",
+            "version": "3.0.0.0",
+            "description": "A plugin for Jellyfin that fetches metadata from MyAnimeList.",
+            "guid": "myanimelist.plugin",
+            "repositoryOwner": "your-username",
+            "repositoryName": "Jellyfin-MyAnimeList-Plugin",
+            "targetAbi": "10.8.0.0",
+            "sourceUrl": "https://github.com/your-username/Jellyfin-MyAnimeList-Plugin/releases/download/v3.0.0.0/myanimelist_3.0.0.0.zip",
+            "imageUrl": "https://github.com/your-username/Jellyfin-MyAnimeList-Plugin/raw/main/logo.png",
+            "checksum": "SHA256_CHECKSUM_HERE",
+            "category": "Metadata"
+        }
+    ]
+}
